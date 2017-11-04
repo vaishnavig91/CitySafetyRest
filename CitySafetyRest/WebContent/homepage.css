@@ -1,0 +1,49 @@
+body
+{
+	background-image:url("Image/city.jpg");
+}
+h1 {
+	font-familty:Times New Roman;
+	color:white;
+	text-align:center;	
+	display:inline;
+	margin-left:460px;
+	margin-top:20px;
+}
+p
+{
+	display:inline;
+	margin-left:50px;
+	margin-top:20px;
+}
+#cities
+{
+	margin-top:80px;
+	margin-left:0px;
+	padding-right:30px;
+	
+}
+#title
+{
+	margin-left:460px;
+	color:yellow;
+}
+input
+{
+	margin-left:460px;
+	margin-top:10px;
+}
+input
+{
+	margin-left:570px;
+}
+#msg
+{
+	text-align:center;
+	
+	color:red;
+}
+
+
+
+

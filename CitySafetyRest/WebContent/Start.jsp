@@ -9,6 +9,7 @@
 <body>
 <h1>Welcome to CitySafety</h1>
 <form method="post" action="./CalculateSafety" selected="">
+<h1>Welcome</h1>
 <p id="title">Select the City in Connecticut:</p> 
 <select id="cities" name="city">
  <option value="Hartford">Hartford</option> 
